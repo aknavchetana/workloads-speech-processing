@@ -1,0 +1,13 @@
+Instructions to Run the Model:
+
+dependencies to install-
+!pip install omegaconf
+!pip install torchaudio
+!pip install zipfile36
+!pip install glob2
+
+Data
+*I have used the .wav files which are included in  "audio_files_used" folder
+
+Running the command line application
+python3 silero_colab.py 

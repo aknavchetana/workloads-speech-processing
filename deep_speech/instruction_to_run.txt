@@ -1,0 +1,15 @@
+Instructions to Run the Model:
+
+dependencies to install-
+!pip install deepspeech 
+!pip install numpy 
+!pip install os-sys
+!pip install wavefile
+!pip install ipython
+
+Data
+*I have used the .wav files which are listed in  "audio_files_used" folder
+
+Running the command line application
+python3 deep_speech_sample.py 
+

@@ -1,0 +1,14 @@
+Instructions to Run the Model:
+
+dependencies to install-
+!pip install transformers 
+!pip install datasets
+!pip install librosa
+!pip install ipython
+
+Data
+*I have used the .wav files which are included in  "audio_files_used" folder
+
+Running the command line application
+python3 automatic_speech.py 
+

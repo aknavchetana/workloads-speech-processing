@@ -1,0 +1,16 @@
+Instructions to Run the Model:
+
+dependencies to install-
+!pip install transformers 
+!pip install scipy
+!pip install librosa
+!pip install numpy
+!pip install torchaudio
+!
+
+Data
+*I have used the .wav files which are listed in  "audio_files_used" folder
+
+Running the command line application
+python3 wave2vec_sample.py 
+

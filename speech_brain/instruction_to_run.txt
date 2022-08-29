@@ -1,0 +1,13 @@
+Instructions to Run the Model:
+
+dependencies to install-
+!pip install speechbrain
+!pip install transformers 
+!pip install ipython
+
+
+Data
+*I have used the .wav files which are included in  "audio_files_used" folder
+
+Running the command line application
+python3 speech_brain_1.py 
